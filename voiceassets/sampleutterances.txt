@@ -1,0 +1,14 @@
+GetNewTipIntent a tip
+GetNewTipIntent a cooking tip
+GetNewTipIntent tell me a tip
+GetNewTipIntent tell me a cooking tip
+GetNewTipIntent give me a tip
+GetNewTipIntent give me a cooking tip
+GetNewTipIntent tell me trivia
+GetNewTipIntent tell me a cooking trivia
+GetNewTipIntent give me trivia
+GetNewTipIntent give me a cooking trivia
+GetNewTipIntent give me some information
+GetNewTipIntent give me some cooking information
+GetNewTipIntent tell me something
+GetNewTipIntent give me something
